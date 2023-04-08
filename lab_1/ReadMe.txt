@@ -4,6 +4,7 @@ This notebook showcases how to use the Word2Vec library in Gensim to pretrain em
 and then use these embeddings to train a spam detector model. We also explore intrinsic and extrinsic evaluation methods for the embeddings.
 
 Contents
+
 Word2Vec: we start by introducing the Word2Vec algorithm and showing how to use it in Gensim to train word embeddings on a corpus of text.
 
 Spam detector: we then use the pre-trained embeddings to train a spam detector model, which takes as input a text message and outputs a binary 
